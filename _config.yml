@@ -1,8 +1,17 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Research Project Catalogue
+author: Emma Knowles PhD
+url: https://eknowles-bch.github.io/rpc/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+The Research Project Catalogue (RPC) comprises a list of mentors and a description of their current research projects.
+The purpose of this catalogue is to streamline and enhance the process of connecting mentors and mentees for potential 
+research projects within the Department of Psychiatry. 
+
+We encourage trainees in the department to peruse the RPC and reach out to mentors with whom they have shared interests. 
+Fist and foremost we foresee this being used for formal fellowship and training grant applications (e.g., HMS Fellowship awards or 
+development of K-awards). However, even if you are not in the process of putting together a formal application
+and instead you are simply interested in research. Please feel free to reach out to any of the listed investigators
+so that you can discuss getting involved in ongoing projects.
+
 
 permalink: /:slug
 
