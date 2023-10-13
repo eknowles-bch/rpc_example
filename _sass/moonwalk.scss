@@ -58,6 +58,29 @@ blockquote {
   p { margin: 0; }
 }
 
+header {
+    display: flex;
+    justify-content: space-between; /* pushes children elements to the extreme ends */
+    align-items: center; /* vertically centers children elements */
+}
+
+.text-container {
+    /* Styling specific to the text container goes here, if necessary */
+}
+
+header h1, header p {
+    margin: 0; /* removes default margin */
+}
+
+header img {
+    width: 10em;
+    height: 10em;
+}
+
+img.rotated {
+    transform: rotate(90deg);
+}
+
 img {
   max-width: 100%;
   display: block;

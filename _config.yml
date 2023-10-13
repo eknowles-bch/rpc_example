@@ -1,8 +1,8 @@
 title: Research Project Catalogue
 author: Emma Knowles
 url: https://eknowles-bch.github.io/rpc/ # root address of the site
-description: > # description of the site (multiple lines allowed)
-  The Research Project Catalogue (RPC) comprises a list of mentors and a description of their current research projects. The purpose of this catalogue is to streamline and enhance the process of connecting mentors and mentees for potential research projects within the Department of Psychiatry. We encourage trainees in the department to peruse the RPC and reach out to mentors with whom they have shared interests. First and foremost we foresee this being used for formal fellowship and training grant applications (e.g., HMS Fellowship awards or  development of K-awards). However, even if you are not in the process of putting together a formal application and instead you are simply interested in research, please feel free to reach out to any of the listed investigators so that you can discuss getting involved in ongoing projects.
+description: > # description of the site (multiple lines allowed) 
+    The Research Project Catalogue (RPC) comprises a list of mentors and a description of their current research projects. The purpose of this catalogue is to streamline and enhance the process of connecting mentors and mentees for potential research projects within the Department of Psychiatry. We encourage trainees in the department to peruse the RPC and reach out to mentors with whom they have shared interests. First and foremost we foresee this being used for formal fellowship and training grant applications (e.g., HMS Fellowship awards or  development of K-awards). However, even if you are not in the process of putting together a formal application and instead you are simply interested in research, please feel free to reach out to any of the listed investigators so that you can discuss getting involved in ongoing projects.
 permalink: /:slug
 
 favicon: "assets/images/favicon/brain_logo.ico" # relative path to site's favicon
@@ -12,11 +12,11 @@ remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  appearance_toggle: true # if appearance can be switched by user
+  appearance_toggle: false # if appearance can be switched by user
   back_home_text: "Home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
-  show_navbar: false # show horizontal navbar
+  show_navbar: true # show horizontal navbar
   show_footer: false # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
