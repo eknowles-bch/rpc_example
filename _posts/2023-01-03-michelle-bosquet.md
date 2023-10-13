@@ -4,7 +4,7 @@ author: Michelle Bosquet Enlow, PhD
 tags: [Anxiety, Risk Identification, Developmental Psychopathology, EEG]
 ---
 
-# Predicting Long-term Neuropsychological Outcomes Post Epilepsy Surgery
+# Neural, Physiological, Behavioral, and Environmental Risk Markers of Anxiety from Infancy to Adolescence
 
 ## Mentor Name:
 

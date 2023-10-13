@@ -10,11 +10,11 @@ navbar_entries:
 
 project_entries:
   - title: Developing Measures of Neuroplasticity using Neuroimaging to Improve Pediatric Epilepsy Surgery Outcomes
-    url: alyssa-allion
+    url: alyssa-allion1
     desc: Centered on leveraging new imaging and computational approaches to understand and facilitate brain plasticity
 
   - title: Predicting Long-term Neuropsychological Outcomes Post Epilepsy Surgery
-    url: alyssa-allion
+    url: alyssa-allion2
     desc: Undertakes a comprehensive study of children with refractory focal epilepsy
 
   - title: Neural, Physiological, Behavioral, and Environmental Risk Markers of Anxiety from Infancy to Adolescence
@@ -30,43 +30,43 @@ project_entries:
     desc: Uses broad survey data to understand risk and protective factors for individuals endorsing support for violence.
 
   - title: Genetic Architecture of Early-Onset Psychosis in Mexicans (EPIMex)
-    url: david-glahn
+    url: david-glahn1
     desc: Characterize early-onset psychosis individuals phenotypically and geneitcally in a detailed and comprehensive manner.
 
   - title: Role of Genetic and Environmental Factors in Risk for Early-Onset Psychosis
-    url: david-glahn
+    url: david-glahn2
     desc: The EPICenter integrates clinical, translational, and basic research with clinical care for children and adolescents with early (or very early) onset psychosis and their families. 
 
   - title: Large-Scale Evaluation of the Effect of Rare Genetic Variants on Psychiatric Symptoms and Cognitive Ability
-    url: david-glahn
+    url: david-glahn3
     desc: Rare copy number variants (CNVs) might serve as a magnifying glass to study general mechanisms of psychopathology 
 
   - title: Predicting psychosis risk in youth using a novel structural neuroimaging score and bringing it to communities using portable, low-field MRI
-    url: maria-jalbrzikowski
+    url: maria-jalbrzikowski1
     desc: Converging lines of evidence support the hypothesis that deviations from typical brain structure development take place prior to psychosis onset
 
   - title: Leveraging Electronic Health Records to Improve Risk Prediction for Psychosis and Bipolar Disorder
-    url: maria-jalbrzikowski
+    url: maria-jalbrzikowski2
     desc: Use electronic health records to find objective markers of risk for psychotic and bipolar disorder in U.S. youth.
 
   - title: Examining Longitudinal Relationships Between Fluctuations in Mood, Sleep and Physical Activity in Adolescent MDD
-    url: emma-knowles
+    url: emma-knowles1
     desc: Intensive digital phenotyping to index mood, anhedonia, anxiety, life stress, plus sleep and activity in adolescents with an MDD.
 
   - title: Impact of Voltage-Gated Calcium-Channel Genes on Bipolar Illness Risk in Child-Affected Trios
-    url: emma-knowles
+    url: emma-knowles2
     desc: Relate aspects of bipolar symptomatology to rare variation in voltage-gated calcium-channel (VGCC) genes.
 
   - title: Inflammation Variation and Reward Responsiveness in Depressed Youth 
-    url: emma-knowles
+    url: emma-knowles3
     desc: Delineate the relationship between variation in inflammation genes and gene networks and adolescent-onset MDD.
 
   - title: Early Warning Signs of Age-Related Hearing Loss
-    url: samuel-mathias
+    url: samuel-mathias1
     desc: Discover "early warning signs" of presbycusis (later-life hearing loss) by leveraging normally hearing offspring of affected individuals.
 
   - title: Exploring the Link Between Hearing Loss and Dementia
-    url: samuel-mathias
+    url: samuel-mathias2
     desc: Examine potential genetic causal links between sensorineual hearing loss and dementia.
 
 old_project_entries:
