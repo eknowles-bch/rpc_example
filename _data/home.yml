@@ -9,22 +9,6 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Developing Measures of Neuroplasticity using Neuroimaging to Improve Pediatric Epilepsy Surgery Outcomes
-    url: alyssa-allion1
-    desc: Centered on leveraging new imaging and computational approaches to understand and facilitate brain plasticity
-
-  - title: Predicting Long-term Neuropsychological Outcomes Post Epilepsy Surgery
-    url: alyssa-allion2
-    desc: Undertakes a comprehensive study of children with refractory focal epilepsy
-
-  - title: Neural, Physiological, Behavioral, and Environmental Risk Markers of Anxiety from Infancy to Adolescence
-    url: michelle-bosquet
-    desc: Testing the combined effects of neural, physiological, behavioral, and environmental risk factors on tanxiety from infancy through adolescence
-
-  - title: Cardiac Neurodevelopmental Program 
-    url: samantha-butler
-    desc: The Cardiac Neurodevelopmental Program has a variety of research and quality improvement projects investigating the development of children with CHD and their families
-
   - title: Building a Public Health Model for the Prevention of Violent Extremism 
     url: heidi-ellis
     desc: Uses broad survey data to understand risk and protective factors for individuals endorsing support for violence.
